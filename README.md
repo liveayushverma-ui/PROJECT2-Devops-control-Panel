@@ -32,8 +32,10 @@ This project demonstrates:
 ## 🏗 Architecture
 
 User (Browser)
+
 ↓
 Public IP (EC2)
+
 ↓
 Security Group (Port 5000 / 80 Open)
 ↓
