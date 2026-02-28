@@ -1,3 +1,7 @@
+![Docker](https://img.shields.io/badge/Docker-Containerized-blue)
+![AWS](https://img.shields.io/badge/AWS-EC2-orange)
+![Python](https://img.shields.io/badge/Python-3.9-green)
+
 # 🚀 DevOps Control Panel
 
 A modern web-based DevOps monitoring dashboard built using Flask and deployed on AWS EC2 using Docker.  
