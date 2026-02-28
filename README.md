@@ -34,6 +34,7 @@ This project demonstrates:
 User (Browser)
 
 ↓
+
 Public IP (EC2)
 
 ↓
@@ -46,10 +47,8 @@ Docker Container
 
 Gunicorn (WSGI Server)
 ↓
-
 Flask Application
 ↓
-
 System Metrics (psutil)
 
 
