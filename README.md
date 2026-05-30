@@ -184,4 +184,4 @@ Application Screenshot
 ## CREATER
 
 Ayush Verma  
-DevOps Enthusiast | Cloud & Automation Learner
+DevOps  | Cloud & Automation Learner
